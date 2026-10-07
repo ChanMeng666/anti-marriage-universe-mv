@@ -1,0 +1,6 @@
+# finished films are published as release assets, not committed
+*.mp4
+
+# build intermediates
+out/
+*.log

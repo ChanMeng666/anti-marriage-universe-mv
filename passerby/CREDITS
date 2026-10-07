@@ -1,0 +1,20 @@
+《最佳路人》 (The Best Strangers) — music video
+
+Song
+  《最佳路人》, from the album 《反婚宇宙》: the film-maker's own song, used as the entire soundtrack
+  (no voice-over, score or sound effects were added; loudness normalised to -14 LUFS).
+
+Fonts (all SIL Open Font License 1.1, self-hosted in fonts/)
+  Noto Sans SC 700 / 900 (subset to the characters used) — Adobe / Google, https://github.com/google/fonts/tree/main/ofl/notosanssc
+  Jost — Owen Earl (indestructible type*), https://github.com/google/fonts/tree/main/ofl/jost
+  Licence texts: fonts/NotoSansSC-OFL.txt, fonts/Jost-OFL.txt
+
+Picture
+  Drawn entirely in code (Canvas 2D plates + a WebGL2 print shader); no images, footage or generated video.
+  engine/riso.js and engine/draw.js are adapted from the risograph demo engine of the lemo-opuscar library
+  (https://github.com/lemomo-ai/lemo-opuscar), MIT licence.
+
+Timing data
+  Beat grid: librosa. Lyric timing: faster-whisper large-v3 (timing only; the words are the official lyric sheet).
+
+No real people, brands or logos appear. "凯迪拉克" is a word in the lyric and is shown only as text.

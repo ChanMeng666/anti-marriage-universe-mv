@@ -1,0 +1,16 @@
+战士阿花 (Warrior Ah Hua) — music video
+
+Song
+  《战士阿花》, from the album 《反婚宇宙》: the film owner's own work (music, lyrics, recording). Used untouched as the whole soundtrack.
+
+Fonts (self-hosted subsets in fonts/)
+  Noto Serif SC, weights 600 and 900 — Copyright 2012 Google Inc. — SIL Open Font License 1.1 (fonts/OFL-NotoSerifSC.txt)
+  Source: Google Fonts, https://fonts.google.com/noto/specimen/Noto+Serif+SC (subset with the CSS API, see tools/fonts.py)
+
+Picture
+  Every image is drawn in code (Canvas 2D); no stock footage, no generated video, no third-party images.
+  lib/paper.js, lib/motifs.js, lib/rig.js, lib/light.js are the paper-cut engine modules copied from the
+  Lemo-Opuscar style library (styles/papercut-red/demo) — MIT License, Copyright (c) 2026 LemoLab (lib/LICENSE).
+  Rendering and muxing use that library's core/ tools.
+
+Analysis tools (not in the film): librosa (beat grid), faster-whisper large-v3 (word timings of the vocal).
