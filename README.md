@@ -10,19 +10,31 @@
 
 ### Warrior Ah Hua · 战士阿花
 
-<!-- FILM: warrior-ah-hua · 16:9, 3:59 — Chan uploads the video here in GitHub's web editor -->
+
+
+https://github.com/user-attachments/assets/bfda082e-9790-4005-8dc8-b7a2f47abef3
+
+
 
 ▶ Watch on YouTube: https://youtu.be/GS_eawacEVs
 
 ### Drifter Ah Fa · 浪子阿发
 
-<!-- FILM: drifter-ah-fa · 16:9, 4:55 — Chan uploads the video here in GitHub's web editor -->
+
+
+https://github.com/user-attachments/assets/7b8a6470-cd95-4cf1-9f96-9e3d0be68034
+
+
 
 ▶ Watch on YouTube: https://youtu.be/btSFv9OVoDc
 
 ### The Best Strangers · 最佳路人
 
-<!-- FILM: the-best-strangers · 16:9, 5:55 — Chan uploads the video here in GitHub's web editor -->
+
+
+https://github.com/user-attachments/assets/392dd198-1b4f-4bfe-9c0b-d2ea700da247
+
+
 
 ▶ Watch on YouTube: https://youtu.be/V5X91IMEmiw
 
